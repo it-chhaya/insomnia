@@ -7,12 +7,12 @@ meta:
   modified: 1767414503543
   description: ""
 collection:
-  - url: localhost:8080/app/default
-    name: configserver/default
+  - url: localhost:8080/account/prod
+    name: configserver/{service}/{profile}
     meta:
       id: req_272d29376a3f4fd3a7b7f8d9733da7cb
       created: 1767414503549
-      modified: 1767414693064
+      modified: 1767415193898
       isPrivate: false
       description: ""
       sortKey: -1767414503549
